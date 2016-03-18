@@ -882,5 +882,7 @@ class ViewController: UIViewController , AVCaptureVideoDataOutputSampleBufferDel
             }
         }
     }
+    
+    
 }
 
